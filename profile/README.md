@@ -8,6 +8,10 @@
 
 **geosteering-no** on GitHub is a collection of open-source projects within the scope of **[geosteering.no](https://geosteering.no)**, which is a NORCE-hosted portal that aggregates world-leading research in all aspects of geosteering.
 
+## Discussion board
+
+Create or join a discussion about digital geosteering, modeling, subsurface and more **[on our geosteering-no Discussion Board](https://github.com/orgs/geosteering-no/discussions)
+
 ## NORCE's initiatives for geosteering research
 
 The current geosteering research at NORCE originates from the 
