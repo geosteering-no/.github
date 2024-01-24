@@ -10,7 +10,7 @@
 
 ## Discussion board
 
-Create or join a discussion about digital geosteering, modeling, subsurface and more **[on our geosteering-no Discussion Board](https://github.com/orgs/geosteering-no/discussions)
+Create or join a discussion about digital geosteering, modeling, subsurface and more **[on our geosteering-no Discussion Board](https://github.com/orgs/geosteering-no/discussions)**
 
 ## NORCE's initiatives for geosteering research
 
