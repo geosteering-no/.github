@@ -1,6 +1,7 @@
 # geosteering-no
 ### NORCE’s open-source digital geosteering projects
 
+## About
 **Geosteering** is the intentional optimization and adjustment of wellbore direction in response to real-time downhole geophysical logging measurements rather than following a pre-defined plan of hitting targets in 3D space. Geosteering is essential for hydrocarbon wells but is gradually introduced in other types of drilling, for example, geothermal and civil wells and tunnels.
 
 **geosteering.no** is a NORCE-hosted portal that aggregates world-leading research in all aspects of geosteering.
