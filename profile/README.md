@@ -1,8 +1,6 @@
 # geosteering-no
 ### NORCE’s open-source digital geosteering projects
 
-![An AI-generated illustration for "geosteering"](/geosteering-dalle-3.jpg)
-
 ## About
 **Geosteering** is the intentional optimization and adjustment of wellbore direction in response to real-time downhole geophysical logging measurements rather than following a pre-defined plan of hitting targets in 3D space. Geosteering is essential for hydrocarbon wells but is gradually introduced in other types of drilling, for example, geothermal and civil wells and tunnels.
 
@@ -10,7 +8,9 @@
 
 ## Discussion board
 
-Create or join a discussion about digital geosteering, modeling, subsurface and more **[on our geosteering-no Discussion Board](https://github.com/orgs/geosteering-no/discussions)**
+Create or join a discussion about digital geosteering, modeling, subsurface and more on our **[geosteering-no Discussion Board](https://github.com/orgs/geosteering-no/discussions)**
+
+![An AI-generated illustration for "geosteering"](/geosteering-dalle-3.jpg)
 
 ## NORCE's initiatives for geosteering research
 
